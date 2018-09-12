@@ -53,4 +53,5 @@ def runner
   end
 end_game(card_total)
 end
-    
+
+# Welcomes player. Sets card_total equal to the sum of the initial round. Until the card_total exceeds 21, set card_total to the new sum after 'hitting' and display that new sum. End game using said new sum. 
